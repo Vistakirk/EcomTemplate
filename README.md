@@ -1,6 +1,5 @@
 # E-Commerce Template
-I was created Clothing E-Commerce web site template. It will be used and implement easly. All tabs and pages are included.
-It provides animations and basic display to consumers. You can use it or get reference.
+It was created a Clothing E-Commerce website template. It will be used and implement easily. All tabs and pages are included. It provides animations and basic displays to consumers. You can use it or get references.
 
 
 
